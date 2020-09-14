@@ -1,0 +1,23 @@
+{
+  "name": "songs_scrapper",
+  "version": "1.0.0",
+  "description": "Downloading Grace Jone's songs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manorius/songs_scrapper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manorius/songs_scrapper/issues"
+  },
+  "homepage": "https://github.com/manorius/songs_scrapper#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "puppeteer": "^5.2.1"
+  }
+}
